@@ -1,0 +1,34 @@
+# Mi Historia - Masherly Sacán
+
+## ¿Quién soy?
+Mi nombre es Masherly Sacán, soy estudiante en el instituto Tecnológico Cenestur
+. Me encuentro cursando una carrera de desarrollo y evaluación de software, con 
+el objetivo de crecer profesionalmente en el mundo digital y aprender cada día 
+más de él.
+
+## ¿Qué me motivó a estudiar tecnología?
+Desde que hice pasantias en mi colegio me llamó la atención cómo la 
+tecnología podía transformar la vida de las personas. Ver cómo un programa
+bien diseñado puede simplificar tareas cotidianas me hizo querer entender 
+cómo funcionaba todos los programas. Esa curiosidad fue la que me llevó 
+a elegir esta carrera.
+
+## ¿Qué expectativas tengo del curso?
+Espero adquirir habilidades sólidas en el uso de herramientas como
+Git y GitHub, aprender buenas prácticas de desarrollo colaborativo
+y fortalecer mis conocimientos en evaluación de software. También
+espero poder aplicar todo lo aprendido en proyectos reales que me
+preparen para el mundo laboral.
+
+## ¿Cómo imagino la tecnología en el futuro?
+Imagino un futuro donde la tecnología sea completamente accesible para
+todas las personas, sin importar su origen o condición. Creo que la
+inteligencia artificial, la automatización y el desarrollo de software
+seguirán revolucionando la educación, la salud y la forma en que nos
+relacionamos entre nosotros.
+
+## Reflexión personal
+Este proceso me ha enseñado que aprender tecnología requiere paciencia,
+práctica y mucha perseverancia. Cada error que cometo me acerca más
+a la solución y me hace más fuerte como profesional. Estoy convencida
+de que estoy en el camino correcto y que lo mejor está por venir.
