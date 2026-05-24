@@ -1,0 +1,25 @@
+# Mi Historia 
+
+## ¿Quién soy?
+Hola, soy Melanie Guale. Estoy a nada de cumplir 21 años este 9 de junio y, ahora mismo estoy cursando mi cuarto semestre de la carrera de Desarrollo de Software en el Instituto Cenestur. Nací en Quito, aunque gran parte de mi familia es costeña y creo que de ahí vienen mis raíces de ser inquieta. Desde chiquita siempre he sido de las que quieren meterse en todos lados y aprender de todo un poco. La verdad, con tanta energía, siempre me costó decidirme por un solo camino y eso es porque quiero hacer tantas cosas que a veces me cuesta elegir por dónde empezar.
+He incluso a día de hoy me cuesta estar en solo actividad, día a día trato de hacer cosas que me llenen el alma y que me permitan conocerme más a mi misma. 
+La vida para pasar a ser un "adulto responsable" no es fácil, yo trabajo, entreno, estudio y trato de emprender, entonces, hay veces en las que no quiero ir a trabajar o entrar a clases, siento que es por el agotamiento que sabe tener mi cuerpo. Todas esas situaciones me han hecho pensar y he estado trabanjando en esa parte de mi vida, llegué a una conclusión, y puedo decir que de todo lo que he aprendido hasta ahora lo puedo expresar en una sola frase, "Vive el aquí y el ahora".
+
+
+## ¿Qué me motivó a estudiar tecnología?
+Empecé en todo este mundo de la tecnología cuando ya estaba en mi último curso del colegio. Yo seguía BGU, así que nunca estuve expuesta al mundo de las computadoras. Por eso, cuando empecé a investigar este campo, me sorprendió bastante todo lo que una persona puede realizar y resolver mediante la tecnología. Pero eso no fue suficiente para que yo quisiera estudiar esta carrera porque tenía miedo de no poder, miedo de no poder acabar la carrera y de que no me gustara como pensaba.
+
+Yo tengo una beca y siento que fue el destino el que me permitió estar aquí. Yo apliqué el último día, cuando ya casi se cerraban las oportunidades de registrarse. Y auqnue no estaba segura, justo tuve una amiga conversaión con una amiga mía, y ella me motivó, me alentó y me permitió ver que, si lograba quedar en la carrera, solo iba a encontrar grandes oportunidades para mí, y si no lograba entrar pues a la final no perdía nada. Solo necesité esas palabras, confiar más en mí y sentir que sí quería explorar todo este mundo nuevo. Me visualicé en la carrera e investigué más para estar preparada por si llegaba a entrar, y así fue y aquí estoy, a dos semestres de graduarme. La carrera aunque es difícil, me gusta y no me arrepiento de nada. La programación me pare fascinante y siempre termina sorprendiéndome con nuevas cosas.
+
+
+## ¿Qué expectativas tengo del curso?
+Honestamente, lo que más espero de esta materia es que me ayude a poner orden y en práctica todo lo que ya vengo haciendo. Me gusta realizar proyectos, pero a veces siento que voy aprendiendo cosas sueltas y me falta entender cómo se arma realmente un sistema bien hecho desde la base.
+Solo espero que no sea solo teoría pesada, sino que me permita entender la lógica de cómo se estructuran las cosas para que lo que yo cree no sea solo un montón de código, sino algo que realmente funcione y tenga sentido. Básicamente, quiero que esto me sirva para dejar de complicarme y darle muchas vueltas a cosas que no son muy útiles a la hora de programar, y poder hacer mis proyectos con más eficacia, menos estrés y más conciencia en lo que hago.
+
+
+## ¿Cómo imagino la tecnología en el futuro?
+Cuando me imagino la tecnología en el futuro automáticamente me derivo más a la Inteligencia Artificial, siento que esta ya a cambiado todo nuestro mundo como lo conocemos y que lo hará aún más y que apenas estamos empezando a entender su potencia e importancia. Lo que más me llama la atención no es solo que las máquinas puedan hacer cosas solas, sino que puedan aprender, adaptarse y resolver problemas que nosotros ni siquiera sabemos cómo plantear todavía. En clase hemos tocado el tema de si una IA podría reemplazarnos, pero yo me imagino un futuro donde la IA no reemplaza a las personas sino que nos da herramientas para hacer mejor lo que ya hacemos, y que al utilizarlas correctamente podremos construir cosas grandes y eficientes. Igual que la programación me sorprendió cuando la descubrí, siento que la IA todavía tiene mucho por sorprendernos.
+
+## Reflexión personal
+Llegué a esta carrera con muchas dudas pero a la final el miedo para mí nunca fue un impedimento para intentar cosas nuevas, capaz si fue el destino como yo misma lo llamo.
+A pesar que todavía hay días en que abro el editor y no sé ni por dónde empezar y me quedo mirando la pantalla por un buen rato hasta lograr comprender mejor lo que quiero hacer, es en esos momentos, donde logro salir de mi bloqueo metal y empiezo a ejecutar los proyectos, logrando que funcionen las cosas, es ahí donde se me olvida lo malo. Supongo que eso es lo que me engancha, que nunca termina de ser fácil pero tampoco termina de ser aburrido. No sé exactamente a dónde me va a llevar todo esto, pero sí sé que prefiero seguir intentándolo a quedarme preguntándome qué hubiera pasado si lo hacía.
